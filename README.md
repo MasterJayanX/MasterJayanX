@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola a todos 👋
 
 <!--
 **MasterJayanX/MasterJayanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy un creador de contenido proveniente de Chile.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D37FMC3)
