@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Soy un creador de contenido proveniente de Chile.
+Soy un creador de contenido proveniente de Chile que sube videos de tecnología con poca frecuencia.
+
+No sé programar XD
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D37FMC3)
