@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Soy un creador de contenido proveniente de Chile que sube videos de tecnología con poca frecuencia.
 
-No sé mucho sobre programar, aunque igual hice un programita.
+No sé mucho sobre programar, aunque igual he hecho uno que otro programita.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D37FMC3)
