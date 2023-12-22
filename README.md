@@ -1,5 +1,5 @@
 ### Hola a todos 👋
-
+![GitHub followers](https://img.shields.io/github/followers/MasterJayanX)
 <!--
 **MasterJayanX/MasterJayanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 Soy un creador de contenido proveniente de Chile que sube videos de tecnología con poca frecuencia.
 
 No sé mucho sobre programar, aunque igual he hecho uno que otro programita.
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChsrjGhvI1Cg68PlQckYTzA) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/masterjayanx) ![Discord](https://img.shields.io/discord/1011076802594209914)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D37FMC3)
