@@ -18,6 +18,6 @@ Soy un creador de contenido proveniente de Chile que sube videos de tecnología 
 
 No sé mucho sobre programar, aunque igual he hecho uno que otro programita.
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChsrjGhvI1Cg68PlQckYTzA) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/masterjayanx) ![Discord](https://img.shields.io/discord/1011076802594209914)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChsrjGhvI1Cg68PlQckYTzA)](https://www.youtube.com/channel/UChsrjGhvI1Cg68PlQckYTzA) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/masterjayanx)](https://twitter.com/intent/follow?screen_name=masterjayanx) [![Discord](https://img.shields.io/discord/1011076802594209914)](https://discord.com/invite/CnGvUrPjtR)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D37FMC3)
