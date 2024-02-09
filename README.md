@@ -1,4 +1,4 @@
-### Hola a todos 👋
+### Hello everyone / Hola a todos 👋
 ![GitHub followers](https://img.shields.io/github/followers/MasterJayanX)
 <!--
 **MasterJayanX/MasterJayanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
