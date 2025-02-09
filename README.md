@@ -10,8 +10,6 @@ Presionen los botones de acá abajo si quieren seguirme en otras plataformas.
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/masterjayanx)](https://twitter.com/intent/follow?screen_name=masterjayanx) 
 
-[![Discord](https://img.shields.io/discord/1011076802594209914)](https://discord.gg/kkBGhE7MxY)
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D37FMC3)
 
 ## Estadísticas
